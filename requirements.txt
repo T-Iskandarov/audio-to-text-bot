@@ -1,0 +1,7 @@
+aiogram==3.31.0
+aiosqlite==0.22.1
+av==18.1.0
+google-genai==2.34.0
+numpy==2.4.6
+pydantic-settings==2.16.2
+python-dotenv==1.2.4
